@@ -1,7 +1,7 @@
-# Countingdown
+# My Python Assignments
 
-<front size=2>使用易语言5.3编写</front>
+<front size=2>cqu python courses</front>
 
 <B>拾月剑客 <C></B>
 
-by Elanguage
+by Python
